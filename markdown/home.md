@@ -8,12 +8,12 @@ This project is a full-stack web application with a static frontend built using 
 .
 ├── main.py
 ├── markdown
-│   ├── about.md
-│   └── home.md
+│         ├── about.md
+│         └── home.md
 ├── requirements.txt
 ├── static
-│   └── css
-│       └── style.css
+│         └── css
+│             └── style.css
 └── templates
     └── index.html
 ```
