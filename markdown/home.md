@@ -1,6 +1,7 @@
 # Full-Stack Web Application
 
 This project is a full-stack web application with a static frontend built using HTML and CSS, and a backend powered by FastAPI.
+
 ---
 ## Project Structure
 
@@ -62,7 +63,3 @@ Contributions are welcome! Please fork the repository and submit a pull request 
 ## Contact
 
 If you have any questions or feedback, feel free to reach out.
-
-Email: [granthcodes@gmail.com](mailto:granthcodes@gmail.com)
-
-GitHub: [Hey-granth](https://www.github.com/Hey-granth)
