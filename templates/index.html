@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>My Web App</title>
+    <link rel="stylesheet" href="/static/css/style.css">
+    <meta name="description" content="A modern web application with clean design">
+    <meta name="theme-color" content="#0a0a0a">
+</head>
+<body>
+<div class="container">
+    <header>
+        <h1>Welcome to My Web App</h1>
+    </header>
+    <main>
+        <div id="content">
+            <!-- Markdown content will be inserted here by FastAPI -->
+            {{ content|safe }}
+        </div>
+    </main>
+    <footer>
+        <p>&copy; 2023 My Web App. All rights reserved.</p>
+    </footer>
+</div>
+</body>
+</html>
